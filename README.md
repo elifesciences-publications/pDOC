@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Song et al., "Prognostication of chronic disorders of consciousness using brain functional networks and clinical characteristics". eLife, 2018. http://dx.doi.org/10.7554/eLife.36173
+
 # pDOC
 Prognostication of chronic disorders of consciousness using resting state fMRI and clinical characteristics
 
